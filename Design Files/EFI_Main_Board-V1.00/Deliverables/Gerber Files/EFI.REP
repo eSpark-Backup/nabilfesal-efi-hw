@@ -2,29 +2,6 @@
 FileName = EFI.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Pad Master
-      File : EFI.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D132
-    D133
-    D134
-    D135
-    D136
-    D137
-    D138
-    D139
-    D140
-    D142
-    D143
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : EFI.GTL
 
@@ -129,6 +106,147 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Overlay
+      File : EFI.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : EFI.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : EFI.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : EFI.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D146
+    D147
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : EFI.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : EFI.GTS
 
@@ -182,10 +300,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : EFI.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Pad Master
+      File : EFI.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -193,19 +309,17 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D146
-    D147
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D142
+    D143
 *************************************************************
 
 *************************************************************
@@ -241,6 +355,31 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Fabrication
+      File : EFI.GM3
+
+    Adding Layer      : Fabrication
+
+
+Used DCodes :
+    D11
+    D83
+    D148
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : EFI.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : EFI.GBP
 
@@ -257,84 +396,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : EFI.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : EFI.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : EFI.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Fabrication
-      File : EFI.GM3
-
-    Adding Layer      : Fabrication
-
-
-Used DCodes :
-    D11
-    D83
-    D148
-*************************************************************
-
-*************************************************************
 Generating : Keep-Out Layer
       File : EFI.GKO
 
@@ -342,67 +403,6 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : EFI.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D132
-    D133
-    D134
-    D135
-    D136
-    D137
-    D138
-    D139
-    D140
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : EFI.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
 *************************************************************
 
 *************************************************************
